@@ -11,6 +11,25 @@ social:
     link: https://github.com/emirkmo
     icon_pack: fab
     icon: github
+    label: Check out my projects on GitHub
+  - display:
+      header: true
+    link: https://www.linkedin.com/in/emir-karamehmetoglu-844a9151/
+    icon_pack: fab
+    icon: linkedin
+    label: Connect on LinkedIn
+  - display:
+      header: true
+    link: https://orcid.org/0000-0001-6209-838X
+    icon_pack: ai
+    icon: orcid
+    label: My Academic publications
+  - display:
+      header: true
+    link: https://twitter.com/astronemir
+    icon_pack: fab
+    icon: twiter
+    label: Follow me on Twitter
 organizations: []
 education:
   courses:
