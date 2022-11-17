@@ -10,12 +10,12 @@ cta_note:
     aria-label="Star">Raw python numpy ML algos for deeplearning ai ML course</a></div>'
 widget: hero
 cta:
-  label: "**Emir Karamehmetoglu**"
-  url: https://wowchemy.com/templates/
+  label: "**Publications (Orcid)**"
+  url: "https://orcid.org/0000-0001-6209-838X"
 widget_id: Emir-hero
 headless: true
 weight: 10
-title: Astronomer, Data Scientist, and Data Software Engineer
+title: Emir Karamehmetoglu
 cta_alt:
   label: contact
   url: ek2660@gmail.com
@@ -26,7 +26,7 @@ design:
     text_color_light: true
 hero_media: 1667895092830211.jpg
 ---
-**My website**
+**Astronomer, Data Engineer, and Data Scientist**
 
 <div class="mb-3"></div>
 <!--GitHub Button JS-->
