@@ -1,16 +1,16 @@
 ---
 cta_note:
   label: '<div style="text-shadow: none;"><a class="github-button"
-    href="https://github.com/wowchemy/wowchemy-hugo-themes"
+    href="https://github.com/emirkmo/personal_website"
     data-icon="octicon-star" data-size="large" data-show-count="true"
-    aria-label="Star">Star Wowchemy Website Builder</a></div><div
+    aria-label="Star">Get my website template</a></div><div
     style="text-shadow: none;"><a class="github-button"
-    href="https://github.com/wowchemy/starter-hugo-academic"
+    href="https://github.com/emirkmo/rawsight_ML"
     data-icon="octicon-star" data-size="large" data-show-count="true"
-    aria-label="Star">Star the Academic template</a></div>'
+    aria-label="Star">Raw python numpy ML algos for deeplearning ai ML course</a></div>'
 widget: hero
 cta:
-  label: "**Meet Astronemir**"
+  label: "**Emir Karamehmetoglu**"
   url: https://wowchemy.com/templates/
 widget_id: Emir-hero
 headless: true
