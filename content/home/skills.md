@@ -21,17 +21,13 @@ feature:
     icon_pack: fab
     name: Python
   - description: Deliver value with Data
-    icon: chart-line
+    icon: microchip-ai
     icon_pack: fas
-    name: Data analysis & viz.
+    name: DS/ML
   - description: Postgres, MongoDB, SQL
     icon: database
     icon_pack: fas
     name: Databases
-  - description: ML & Deep Learning
-    icon: microchip-ai
-    icon_pack: fas
-    name: Machine learning
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"

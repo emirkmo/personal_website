@@ -15,7 +15,7 @@ cta:
 widget_id: Emir-hero
 headless: true
 weight: 10
-title: Emir's Webpage
+title: Astronomer, Data Scientist, and Data Software Engineer
 cta_alt:
   label: contact
   url: ek2660@gmail.com
