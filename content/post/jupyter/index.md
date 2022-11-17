@@ -1,17 +1,19 @@
 ---
-title: Display Jupyter Notebooks with Academic
-subtitle: Learn how to blog in Academic using Jupyter notebooks
 summary: Learn how to blog in Academic using Jupyter notebooks
+draft: true
 authors:
   - admin
+lastMod: 2019-09-05T00:00:00Z
+title: Display Jupyter Notebooks with Academic
+subtitle: Learn how to blog in Academic using Jupyter notebooks
+date: 2022-11-17T13:21:53.328Z
 tags: []
 categories: []
 projects: []
-date: '2019-02-05T00:00:00Z'
-lastMod: '2019-09-05T00:00:00Z'
 image:
-  caption: ''
-  focal_point: ''
+  caption: ""
+  focal_point: ""
+  preview_only: true
 ---
 
 ```python
