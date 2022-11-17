@@ -28,7 +28,7 @@ social:
       header: true
     link: https://twitter.com/astronemir
     icon_pack: fab
-    icon: twiter
+    icon: twitter
     label: Follow me on Twitter
 organizations: []
 education:

@@ -10,21 +10,21 @@ cta_note:
     aria-label="Star">Star the Academic template</a></div>'
 widget: hero
 cta:
-  label: "**Get Started**"
+  label: "**Meet Astronemir**"
   url: https://wowchemy.com/templates/
 widget_id: Emir-hero
 headless: true
 weight: 10
-title: Emir
+title: Emir's Webpage
 cta_alt:
-  label: Ask a question
-  url: https://discord.gg/z8wNYzb
+  label: contact
+  url: ek2660@gmail.com
 design:
   background:
     gradient_end: "#1976d2"
     gradient_start: "#004ba0"
     text_color_light: true
-hero_media: hero-academic.png
+hero_media: 1667895092830211.jpg
 ---
 **My website**
 

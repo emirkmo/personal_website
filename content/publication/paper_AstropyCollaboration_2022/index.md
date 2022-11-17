@@ -1,0 +1,155 @@
+---
+title: "The Astropy Project: Sustaining and Growing a Community-oriented Open-source Project and the Latest Major Release (v5.0) of the Core Package"
+authors:
+-  Astropy Collaboration
+-  Price-Whelan, Adrian M.
+-  Lim, Pey Lian
+-  Earl, Nicholas
+-  Starkman, Nathaniel
+-  Bradley, Larry
+-  Shupe, David L.
+-  Patil, Aarya A.
+-  Corrales, Lia
+-  Brasseur, C. E.
+-  Nöthe, Maximilian
+-  Donath, Axel
+-  Tollerud, Erik
+-  Morris, Brett M.
+-  Ginsburg, Adam
+-  Vaher, Eero
+-  Weaver, Benjamin A.
+-  Tocknell, James
+-  Jamieson, William
+-  van Kerkwijk, Marten H.
+-  Robitaille, Thomas P.
+-  Merry, Bruce
+-  Bachetti, Matteo
+-  Günther, H. Moritz
+-  Aldcroft, Thomas L.
+-  Alvarado-Montes, Jaime A.
+-  Archibald, Anne M.
+-  Bódi, Attila
+-  Bapat, Shreyas
+-  Barentsen, Geert
+-  Bazán, Juanjo
+-  Biswas, Manish
+-  Boquien, Médéric
+-  Burke, D. J.
+-  Cara, Daria
+-  Cara, Mihai
+-  Conroy, Kyle E.
+-  Conseil, Simon
+-  Craig, Matthew W.
+-  Cross, Robert M.
+-  Cruz, Kelle L.
+-  D'Eugenio, Francesco
+-  Dencheva, Nadia
+-  Devillepoix, Hadrien A. R.
+-  Dietrich, Jörg P.
+-  Eigenbrot, Arthur Davis
+-  Erben, Thomas
+-  Ferreira, Leonardo
+-  Foreman-Mackey, Daniel
+-  Fox, Ryan
+-  Freij, Nabil
+-  Garg, Suyog
+-  Geda, Robel
+-  Glattly, Lauren
+-  Gondhalekar, Yash
+-  Gordon, Karl D.
+-  Grant, David
+-  Greenfield, Perry
+-  Groener, Austen M.
+-  Guest, Steve
+-  Gurovich, Sebastian
+-  Handberg, Rasmus
+-  Hart, Akeem
+-  Hatfield-Dodds, Zac
+-  Homeier, Derek
+-  Hosseinzadeh, Griffin
+-  Jenness, Tim
+-  Jones, Craig K.
+-  Joseph, Prajwel
+-  Kalmbach, J. Bryce
+-  Karamehmetoglu, Emir
+-  Kałuszyński, Mikołaj
+-  Kelley, Michael S. P.
+-  Kern, Nicholas
+-  Kerzendorf, Wolfgang E.
+-  Koch, Eric W.
+-  Kulumani, Shankar
+-  Lee, Antony
+-  Ly, Chun
+-  Ma, Zhiyuan
+-  MacBride, Conor
+-  Maljaars, Jakob M.
+-  Muna, Demitri
+-  Murphy, N. A.
+-  Norman, Henrik
+-  O'Steen, Richard
+-  Oman, Kyle A.
+-  Pacifici, Camilla
+-  Pascual, Sergio
+-  Pascual-Granado, J.
+-  Patil, Rohit R.
+-  Perren, Gabriel I.
+-  Pickering, Timothy E.
+-  Rastogi, Tanuj
+-  Roulston, Benjamin R.
+-  Ryan, Daniel F.
+-  Rykoff, Eli S.
+-  Sabater, Jose
+-  Sakurikar, Parikshit
+-  Salgado, Jesús
+-  Sanghi, Aniket
+-  Saunders, Nicholas
+-  Savchenko, Volodymyr
+-  Schwardt, Ludwig
+-  Seifert-Eckert, Michael
+-  Shih, Albert Y.
+-  Jain, Anany Shrey
+-  Shukla, Gyanendra
+-  Sick, Jonathan
+-  Simpson, Chris
+-  Singanamalla, Sudheesh
+-  Singer, Leo P.
+-  Singhal, Jaladh
+-  Sinha, Manodeep
+-  Sipőcz, Brigitta M.
+-  Spitler, Lee R.
+-  Stansby, David
+-  Streicher, Ole
+-  Šumak, Jani
+-  Swinbank, John D.
+-  Taranu, Dan S.
+-  Tewary, Nikita
+-  Tremblay, Grant R.
+-  Val-Borro, Miguel de
+-  Van Kooten, Samuel J.
+-  Vasović, Zlatan
+-  Verma, Shresth
+-  de Miranda Cardoso, José Vinícius
+-  Williams, Peter K. G.
+-  Wilson, Tom J.
+-  Winkel, Benjamin
+-  Wood-Vasey, W. M.
+-  Xue, Rui
+-  Yoachim, Peter
+-  Zhang, Chen
+-  Zonca, Andrea
+-  and Astropy Project Contributors
+date: "2022-08-01T00:00:00"
+doi: "10.3847/1538-4357/ac7c74"
+publishDate: "2022-11-17T23:40:52.796459"
+publication_types: ["2"]
+publication: apj
+publication_short: apj
+abstract: "The Astropy Project: Sustaining and Growing a Community-oriented Open-source Project and the Latest Major Release (v5.0) of the Core Package"
+tags:
+- Astronomy
+links:
+- name: NASA ADS
+  url: https://ui.adsabs.harvard.edu/abs/2022ApJ...935..167A
+url_pdf: https://arxiv.org/abs/2206.14220
+projects: []
+---

@@ -10,7 +10,7 @@ headless: true
 weight: 90
 
 title: Recent Publications
-subtitle: ''
+subtitle: 'https://orcid.org/0000-0001-6209-838X'
 
 content:
   # Filter on criteria
@@ -36,6 +36,6 @@ design:
   columns: '2'
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
+{{% /callout %}} -->
