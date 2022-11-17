@@ -19,11 +19,11 @@ content:
   count: 1
   # Filter on criteria
   filters:
-    featured_only: true
+    featured_only: false
     author: ''
     category: ''
-    publication_type: ''
-    tag: ''
+    publication_type: '2'
+    tag: 'Astronomy'
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
 
