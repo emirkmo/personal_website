@@ -1,110 +1,135 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
-
-# Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
-
-# Link this post with a project
-projects: []
-
-# Date published
-date: '2020-12-13T00:00:00Z'
-
-# Date updated
-lastmod: '2020-12-13T00:00:00Z'
-
-# Is this an unpublished draft?
+summary: Welcome 👋
 draft: false
-
-# Show this page in the Featured widget?
+authors:
+  - astronemir
+lastmod: 2020-12-13T00:00:00Z
+title: Welcome to my website
+subtitle: Welcome 👋  Under construction.
+date: 2020-12-13T00:00:00Z
 featured: false
-
-# Featured image
-# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
+tags: []
+categories: []
+projects: []
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
-  focal_point: ''
+  caption: ""
+  focal_point: ""
   placement: 2
   preview_only: false
-
-authors:
-  - admin
-  - 吳恩達
-
-tags:
-  - Academic
-  - 开源
-
-categories:
-  - Demo
-  - 教程
 ---
-
 ```python
-import libr
-print('hello')
+import this
 ```
 
-## Overview
+## [](https://wowchemy.com)My projects:\
+\
+PROJECTS
 
-1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
+### My portfolio projects can be found on my [GitHub](https://github.com/emirkmo). 
 
-[![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png)](https://wowchemy.com)
+Since I enjoy solving problems with programming I have been involved in many projects. I highlight some recent ones here which show my latest skills. The decisions behind the coding and hosting choices can be found in their individual blog posts (upcoming). For now, feel free to explore them on GitHub!
 
-## Get Started
+#### FLOWS
 
-- 👉 [**Create a new site**](https://wowchemy.com/templates/)
-- 📚 [**Personalize your site**](https://wowchemy.com/docs/)
-- 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=%23MadeWithWowchemy&src=typed_query)
-- 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/wowchemy/wowchemy-hugo-themes/issues)
-- ⬆️ **Updating Wowchemy?** View the [Update Tutorial](https://wowchemy.com/docs/hugo-tutorials/update/) and [Release Notes](https://wowchemy.com/updates/)
+#### Astronomy image analysis pipeline
 
-## Crowd-funded open-source software
+https://github.com/SNFLOWS\
+Utilized Python, Linux, Git, GitHub, bash, Cron, SQL, PostGreSQL,\
+Docker to create data reduction pipeline that has served over\
+100,000 photometric measurements.
 
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
+#### RawSightML
 
-### [❤️ Click here to become a sponsor and help support Wowchemy's future ❤️](https://wowchemy.com/sponsor/)
+#### [](<>)[](<>)[](<>)[](<>)[](<>)[](<>)[](<>)[](<>)[](<>)[](<>)[](<>)[](<>)[](<>)Raw python/numpy (vectorized), object-oriented, Machine Learning library
 
-As a token of appreciation for sponsoring, you can **unlock [these](https://wowchemy.com/sponsor/) awesome rewards and extra features 🦄✨**
+https://github.com/emirkmo/rawsight_ML\
+Implemented acceptance tests against Tensorflow and Scikit-\
+Learn.\
+Used SOLID design principles to make easily extensible and\
+readable code to provide insight into ML algorithms, with\
+interfaces defined by Protocol classes.\
+Implemented Linear, Logistic, Softmax, Polynomial regression,\
+normalizers, cost functions, regularization, batch gradient descent,\
+sequential and convolutional neural nets with dense layers, back\
+propagation, decision trees.
 
-## Ecosystem
+#### astroSN
 
-- **[Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli):** Automatically import publications from BibTeX
+#### [](<>)[](<>)[](<>)[](<>)[](<>)[](<>)[](<>)[](<>)Python pandas based, typed, extensible, supernova time-series analysis and plotting library
 
-## Inspiration
+Reduced on-boarding time for new students into bachelor\
+research projects by two weeks by publishing on PyPi (pip) a\
+supernova time-series analysis library, also containing an ETL\
+photometry ingest pipeline, using easy to extend abstract classes\
+and protocols.
 
-[Check out the latest **demo**](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the **showcase**](https://wowchemy.com/user-stories/) of personal, project, and business sites.
+## tnsquery
 
-## Features
+#### [](<>)[](<>)[](<>)[](<>)[](<>)[](<>)[](<>)[](<>)[](<>)[](<>)[](<>)[](<>)[](<>)[](<>)[](<>)[](<>)asychronous REST API for transient data queries developed with FASTAPI, SQLAlchemy, and Docker
 
-- **Page builder** - Create _anything_ with [**widgets**](https://wowchemy.com/docs/page-builder/) and [**elements**](https://wowchemy.com/docs/content/writing-markdown-latex/)
-- **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
-- **Create content** in [**Markdown**](https://wowchemy.com/docs/content/writing-markdown-latex/), [**Jupyter**](https://wowchemy.com/docs/import/jupyter/), or [**RStudio**](https://wowchemy.com/docs/install-locally/)
-- **Plugin System** - Fully customizable [**color** and **font themes**](https://wowchemy.com/docs/customization/)
-- **Display Code and Math** - Code highlighting and [LaTeX math](https://en.wikibooks.org/wiki/LaTeX/Mathematics) supported
-- **Integrations** - [Google Analytics](https://analytics.google.com), [Disqus commenting](https://disqus.com), Maps, Contact Forms, and more!
-- **Beautiful Site** - Simple and refreshing one page design
-- **Industry-Leading SEO** - Help get your website found on search engines and social media
-- **Media Galleries** - Display your images and videos with captions in a customizable gallery
-- **Mobile Friendly** - Look amazing on every screen with a mobile friendly version of your site
-- **Multi-language** - 34+ language packs including English, 中文, and Português
-- **Multi-user** - Each author gets their own profile page
-- **Privacy Pack** - Assists with GDPR
-- **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
-- **One-Click Deployment** - No servers. No databases. Only files.
+https://github.com/emirkmo/tnsquery\
+Implemented a local postgreSQL database as a caching/main\
+database, external private API as central-authority service, and\
+deployed with docker containers using Portainer for container\
+management on self-built bare-metal Linux server, served via\
+CloudFlare tunnels instead of nginx reverse proxy. Will be\
+implemented into large open-source community Astropy package\
+to provide limited-authentication API queries not possible via the\
+official API, which is locked behind professional astronomer\
+credentials page.\
+Full python packaging eco-system with poetry, pip, pre-commit\
+hooks mypy, black, flake8, Alembic migrations, github actions, dev\
+and deployment containers
 
-## Themes
+### Tendrils
 
-Wowchemy and its templates come with **automatic day (light) and night (dark) mode** built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the [Demo](https://academic-demo.netlify.com/) to see it in action! Day/night mode can also be disabled by the site admin in `params.toml`.
+#### [](<>)[](<>)[](<>)[](<>)[](<>)[](<>)[](<>)[](<>)[](<>)[](<>)[](<>)[](<>)[](<>)[](<>)[](<>)Python API wrapper around PHP webserver API  
 
-[Choose a stunning **theme** and **font**](https://wowchemy.com/docs/customization) for your site. Themes are fully customizable.
+Developed simple API to give researchers programmatic access to data products of FLOWS pipeline and related external APIs.
 
-## License
+#### flows_get_brightest
 
-Copyright 2016-present [George Cushen](https://georgecushen.com).
+#### Astronomy observational planner
 
-Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md) license.
+python script to query catalogs, intelligently place instrument on sky to
+
+avoid bright stars, and produce finder charts.
+
+#### Object-oriented grid-graph algorithm solutions in Python
+
+Object oriented standard grid-graph (island) traversal algorithms,\
+implemented with multi-D breadth first and depth first search,\
+allowing for non-standard path-traversal logic, in simple to read\
+and extend raw python.
+
+
+
+# Selected Open Source Contributions
+
+\- **Astropy**: Made Extended CSV (ECSV) v.1.0 backwards compatibile\
+with v0.9, added regression tests, allowing many projects to finally\
+upgrade to the latest version of Astropy.
+
+ \
+  - **SVOFilters**: Added data validation and cleaning to the web API for\
+queries resulting in non-monotonically increasing bandpass filter\
+profiles, and for N repeated entries using BFS; made errors more\
+specific.
+
+ \
+  - **Pyscript**: Contributed How-To guide on making async HTTP\
+requests using PyScript and pyodide using JavaScript Fetch API,\
+using a pure python wrapper, addressing the most commonly\
+asked issue and question of the missing requests module.
+
+ 
+
+[](<>)[](<>)[](<>)[](<>)[](<>)[](<>)[](<>)[](<>)[](<>)[](<>)[](<>)[](<>)  - **Scikit-Learn:** Made Gaussian Mixture Model initialization more\
+robust by allowing passing in user-provided callables and\
+simplified the model inputs, provided docs, regression tests, and\
+increased test coverage of sklearn.mixture module.
+
+ \
+  - **Photutils:** Found, reproduced, diagnosed, and fixed bug with\
+point-spread-function centroid finding algorithm and added\
+regression tests.
