@@ -19,7 +19,7 @@ authors:
 -  and Growth Collaboration
 date: "2017-01-01T00:00:00"
 doi: "None"
-publishDate: "2022-11-17T23:40:52.871736"
+publishDate: "2022-11-17T19:48:41.686352"
 publication_types: ["2"]
 publication: GRB Coordinates Network
 publication_short: GRB Coordinates Network

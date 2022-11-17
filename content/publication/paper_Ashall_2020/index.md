@@ -22,7 +22,7 @@ authors:
 -  and Uddin, S.
 date: "2020-05-01T00:00:00"
 doi: "10.3847/2041-8213/ab8e37"
-publishDate: "2022-11-17T23:40:52.845517"
+publishDate: "2022-11-17T19:48:41.659767"
 publication_types: ["2"]
 publication: apjl
 publication_short: apjl

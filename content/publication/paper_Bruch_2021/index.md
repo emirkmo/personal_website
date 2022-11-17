@@ -51,7 +51,7 @@ authors:
 -  and Yan, Lin
 date: "2021-05-01T00:00:00"
 doi: "10.3847/1538-4357/abef05"
-publishDate: "2022-11-17T23:40:52.816829"
+publishDate: "2022-11-17T19:48:41.631559"
 publication_types: ["2"]
 publication: apj
 publication_short: apj

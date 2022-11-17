@@ -35,7 +35,7 @@ authors:
 -  and Stritzinger, M. D.
 date: "2022-12-01T00:00:00"
 doi: "10.1093/mnras/stac2747"
-publishDate: "2022-11-17T23:40:52.769076"
+publishDate: "2022-11-17T19:48:41.564680"
 publication_types: ["2"]
 publication: mnras
 publication_short: mnras

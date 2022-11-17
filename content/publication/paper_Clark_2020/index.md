@@ -36,7 +36,7 @@ authors:
 -  and Young, David
 date: "2020-02-01T00:00:00"
 doi: "10.1093/mnras/stz3598"
-publishDate: "2022-11-17T23:40:52.849095"
+publishDate: "2022-11-17T19:48:41.663236"
 publication_types: ["2"]
 publication: mnras
 publication_short: mnras

@@ -12,7 +12,7 @@ authors:
 -  and Karamehmetoglu, Emir
 date: "2022-11-01T00:00:00"
 doi: "10.3847/2041-8213/ac93f8"
-publishDate: "2022-11-17T23:40:52.771881"
+publishDate: "2022-11-17T19:48:41.570711"
 publication_types: ["2"]
 publication: apjl
 publication_short: apjl

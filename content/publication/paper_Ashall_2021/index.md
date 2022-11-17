@@ -34,7 +34,7 @@ authors:
 -  and de Jaeger, Thomas
 date: "2021-03-01T00:00:00"
 doi: "None"
-publishDate: "2022-11-17T23:40:52.825262"
+publishDate: "2022-11-17T19:48:41.639723"
 publication_types: ["2"]
 publication: 2021jwst.prop.2114A
 publication_short: 2021jwst.prop.2114A

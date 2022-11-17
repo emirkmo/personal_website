@@ -26,7 +26,7 @@ authors:
 -  and Soumagnac, M. T.
 date: "2021-05-01T00:00:00"
 doi: "10.1051/0004-6361/201936308"
-publishDate: "2022-11-17T23:40:52.820684"
+publishDate: "2022-11-17T19:48:41.635279"
 publication_types: ["2"]
 publication: aap
 publication_short: aap

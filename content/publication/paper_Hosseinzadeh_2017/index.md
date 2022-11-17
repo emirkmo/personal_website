@@ -40,7 +40,7 @@ authors:
 -  and Woźniak, Przemek
 date: "2017-02-01T00:00:00"
 doi: "10.3847/1538-4357/836/2/158"
-publishDate: "2022-11-17T23:40:52.868554"
+publishDate: "2022-11-17T19:48:41.682985"
 publication_types: ["2"]
 publication: apj
 publication_short: apj

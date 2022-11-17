@@ -29,7 +29,7 @@ authors:
 -  and Wozniak, P.
 date: "2017-12-01T00:00:00"
 doi: "10.3847/1538-4357/aa99de"
-publishDate: "2022-11-17T23:40:52.865135"
+publishDate: "2022-11-17T19:48:41.679443"
 publication_types: ["2"]
 publication: apj
 publication_short: apj

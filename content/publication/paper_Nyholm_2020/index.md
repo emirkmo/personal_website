@@ -25,7 +25,7 @@ authors:
 -  and Schulze, S.
 date: "2020-05-01T00:00:00"
 doi: "10.1051/0004-6361/201936097"
-publishDate: "2022-11-17T23:40:52.847029"
+publishDate: "2022-11-17T19:48:41.661412"
 publication_types: ["2"]
 publication: aap
 publication_short: aap

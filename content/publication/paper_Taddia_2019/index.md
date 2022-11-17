@@ -11,7 +11,7 @@ authors:
 -  and Gal-Yam, A.
 date: "2019-01-01T00:00:00"
 doi: "10.1051/0004-6361/201833688"
-publishDate: "2022-11-17T23:40:52.858872"
+publishDate: "2022-11-17T19:48:41.672995"
 publication_types: ["2"]
 publication: aap
 publication_short: aap

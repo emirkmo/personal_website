@@ -39,7 +39,7 @@ authors:
 -  and Zackay, Barak
 date: "2020-10-01T00:00:00"
 doi: "10.3847/1538-4357/abb247"
-publishDate: "2022-11-17T23:40:52.832514"
+publishDate: "2022-11-17T19:48:41.646850"
 publication_types: ["2"]
 publication: apj
 publication_short: apj

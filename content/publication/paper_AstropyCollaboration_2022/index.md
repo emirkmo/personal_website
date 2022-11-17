@@ -140,7 +140,7 @@ authors:
 -  and Astropy Project Contributors
 date: "2022-08-01T00:00:00"
 doi: "10.3847/1538-4357/ac7c74"
-publishDate: "2022-11-17T23:40:52.796459"
+publishDate: "2022-11-17T19:48:41.613244"
 publication_types: ["2"]
 publication: apj
 publication_short: apj

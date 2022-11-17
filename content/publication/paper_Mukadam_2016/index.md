@@ -16,7 +16,7 @@ authors:
 -  and Rock, John
 date: "2016-04-01T00:00:00"
 doi: "10.3847/0004-637X/821/1/14"
-publishDate: "2022-11-17T23:40:52.878397"
+publishDate: "2022-11-17T19:48:41.692792"
 publication_types: ["2"]
 publication: apj
 publication_short: apj
