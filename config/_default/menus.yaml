@@ -13,16 +13,19 @@ main:
   - name: Projects
     url: '#projects'
     weight: 30
-  # - name: Press
-  #   url: '#press'
-  #   weight: 40
   - name: Publications
     url: '#featured'
-    weight: 50
+    weight: 40
   - name: Contact
     url: '#contact'
+    weight: 50
+  - name: ZTFPhot
+    url: 'https://ztfphot.darkdata.ml'
     weight: 60
-
+  - name: tnsquery
+    url: 'https://tnsquery.darkdata.ml/api/docs'
+    weight: 70
+  
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
 #  - name: CV
